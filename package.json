@@ -1,0 +1,48 @@
+{
+  "name": "@cross2d/react-web-vector-icons",
+  "version": "1.0.0",
+  "description": "![Vector Icons for React Native](https://cloud.githubusercontent.com/assets/378279/12009887/33f4ae1c-ac8d-11e5-8666-7a87458753ee.png)",
+  "main": "index.js",
+  "scripts": {
+    "release":"npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cross2d/react-web-vector-icons.git"
+  },
+  "author": "Colin3dmax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cross2d/react-web-vector-icons/issues"
+  },
+
+"dependencies": {
+    "lodash": "^4.0.0",
+    "yargs": "^6.3.0"
+  },
+  "description": "Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling.",
+    "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-eslint": "^7.0.0",
+    "eslint": "^3.7.1",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.4.1",
+    "evil-icons": "^1.8.0",
+    "font-awesome": "^4.6.3",
+    "ionicons": "^3.0.0",
+    "material-design-icons": "^3.0.1",
+    "mdi": "1.7.22",
+    "octicons": "^5.0.1"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "rnpm": {
+    "assets": [
+      "Fonts"
+    ]
+  },
+  "homepage": "https://github.com/cross2d/react-web-vector-icons#readme"
+}
